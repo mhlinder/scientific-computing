@@ -5,8 +5,8 @@ Scientific Computing for Scientists
 Why practice scientific computing? Scientific computing is not merely using Excel sheets
 
 ## Tools
-Google
-The terminal
+### Google
+### The terminal
 * Excel
 * latex
 * git
