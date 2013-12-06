@@ -21,4 +21,5 @@ Python for Data Science
 * ipython
 * scikit learn
 
+### Other languages
 R, Stata, MATLAB, Julia
