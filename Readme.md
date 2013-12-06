@@ -4,16 +4,23 @@ Scientific Computing for Scientists
 ## Manifest
 Why practice scientific computing? Scientific computing is not merely using computers as an aid to science; it's intelligently using computers to organize and process data, and to write up the results of empirical work and simulation.
 
+### Leave a paper trail
+* Documentation / Latex
+* Git
+* Workflows https://www.atlassian.com/git/workflows
+
+### Learn how to use your tools
+* Google
+* The terminal
+* Package management / Homebrew
+* Excel
+* A text editor
+
+### Learn how to program
+* General-purpose languages: Python, R, MATLAB
+* Specific-purpose languages: Awk, Sed, Bash, Stata
+
 ## Tools
-### Google
-### The terminal
-### Excel
-### latex
-
-### git
-* https://www.atlassian.com/git/workflows
-* project management and paper trail
-
 ### A text editor
 A text editor is an important component of scientific computing: it's a primary interface for manipulating files and code. It's a personal choice. Just don't use Notepad.
 
