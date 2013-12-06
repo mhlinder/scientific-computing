@@ -1,19 +1,26 @@
 Scientific Computing for Scientists
 ===================================
 
-## Manifest
+## Manifesto
 Why practice scientific computing? Scientific computing is not merely using computers as an aid to science; it's intelligently using computers to organize and process data, and to write up the results of empirical work and simulation.
 
+### Leave a paper trail
+* Documentation / Latex
+
+[Git](http://git-scm.com/) is version control software, which will keep track of changes you make to files---code, documentation, data---and allow you to look back into the history of your projects. Git is a killer app for project management and version control: you can set up a [workflow](https://www.atlassian.com/git/workflows) defining your interaction with your files, or design your own. You can learn git [here](http://gitready.com/) or [here](http://git-scm.com/book).
+
+### Learn how to use your tools
+* Google
+* The terminal
+* Package management / Homebrew
+* Excel
+* A text editor
+
+### Learn how to program
+* General-purpose languages: Python, R, MATLAB
+* Specific-purpose languages: Awk, Sed, Bash, Stata
+
 ## Tools
-### Google
-### The terminal
-### Excel
-### latex
-
-### git
-* https://www.atlassian.com/git/workflows
-* project management and paper trail
-
 ### A text editor
 A text editor is an important component of scientific computing: it's a primary interface for manipulating files and code. It's a personal choice. Just don't use Notepad.
 
