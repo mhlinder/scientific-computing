@@ -6,8 +6,7 @@ Why practice scientific computing? Scientific computing is not merely using comp
 
 ### Leave a paper trail
 * Documentation / Latex
-* Git
-* Workflows https://www.atlassian.com/git/workflows
+*Git* is version control software, which will keep track of changes you make to files---code, documentation, data---and allow you to look back into the history of your projects. Git is a killer app for project management and version control: you can set up a [workflow](https://www.atlassian.com/git/workflows) defining your interaction with your files, or design your own. You can learn git [here](http://gitready.com/) or [here](http://git-scm.com/book).
 
 ### Learn how to use your tools
 * Google
