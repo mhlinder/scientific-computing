@@ -1,1 +1,8 @@
-This is the main event
+Scientific Computing for Scientists
+===================================
+
+Manifest
+--------
+
+Tools
+-----
