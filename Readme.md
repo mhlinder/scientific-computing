@@ -9,9 +9,11 @@ Why practice scientific computing? Scientific computing is not merely using comp
 ### The terminal
 ### Excel
 ### latex
+
 ### git
 * gitflow
 * project management and paper trail
+
 ### A text editor
 * Vim
 * Emacs
