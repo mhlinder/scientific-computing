@@ -7,20 +7,18 @@ Why practice scientific computing? Scientific computing is not merely using Exce
 ## Tools
 ### Google
 ### The terminal
-* Excel
-* latex
-* git
-* * gitflow
-* * project management and paper trail
-* languages
-* * python
-* * * Packages
-* * * * numpy / scipy
-* * * * pandas
-* * * * ipython
-* * * * scikit learn
-* * * Python for Data Science
-* * R
-* * Stata
-* * MATLAB
-* * Julia
+### Excel
+### latex
+### git
+* gitflow
+* project management and paper trail
+
+## Programming languages
+### Python
+Python for Data Science
+* numpy / scipy
+* pandas
+* ipython
+* scikit learn
+
+R, Stata, MATLAB, Julia
