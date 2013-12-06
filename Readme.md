@@ -12,6 +12,11 @@ Why practice scientific computing? Scientific computing is not merely using comp
 ### git
 * gitflow
 * project management and paper trail
+### A text editor
+* Vim
+* Emacs
+* Sublime / TextWrangler
+* Something else
 
 ## Programming languages
 The choice of a programming language is very personal.
