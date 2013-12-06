@@ -14,6 +14,7 @@ Why practice scientific computing? Scientific computing is not merely using Exce
 * project management and paper trail
 
 ## Programming languages
+The choice of a programming language is very personal.
 ### Python
 Python for Data Science
 * numpy / scipy
