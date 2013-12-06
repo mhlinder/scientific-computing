@@ -47,3 +47,5 @@ Use the [iPython](http://ipython.org/) Python shell. It changed the way that I p
 
 ### Other languages
 R, Stata, MATLAB, Julia
+
+### Awk and Sed
