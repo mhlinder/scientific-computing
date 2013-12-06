@@ -1,14 +1,12 @@
 Scientific Computing for Scientists
 ===================================
 
-Manifest
---------
+## Manifest
 Why practice scientific computing? Scientific computing is not merely using Excel sheets
 
-Tools
------
-* google
-* the terminal
+## Tools
+Google
+The terminal
 * Excel
 * latex
 * git
