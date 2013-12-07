@@ -4,6 +4,8 @@ Scientific Computing for Scientists
 ## Manifesto
 Why practice scientific computing? Scientific computing is not merely using computers as an aid to science; it's intelligently using computers to organize and process data, and to write up the results of empirical work and simulation.
 
+Science need not be something Professional Researchers pawn off to their RAs.
+
 ### Leave a paper trail
 * Documentation / Latex
 
