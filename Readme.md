@@ -82,6 +82,17 @@ Three other languages stand out as oft-overlooked, but immensely powerful, espec
 
 Sed and Awk are storied tools for processing text, and process it line-by-line instead of requiring that you load the entire data into, say, a spreadsheet (i.e., loading it into your computer's memory). Sed matches and alters patterns in text, while awk incorporates some of the features of sed, plus offering a pretty fully-featured programming language for more advanced tasks. Both allow you to manipulate very large data files, with minimal by-hand editing. They have steep learning curves, but this is mitigated by the sheer power they provide on the commandline.
 
+### Choosing New Languages
+
+Whether out of scientific neccessity, sheer boredom, or shameless nerdiness, every researcher will consider learning a new language. So then the question becomes "Given what I already know, what new language would add the most value to my scientific computing toolkit?" Clearly, that depends cruciallly upon the tasks you intend to accomplish, the preferences of coworkers and coauthors, the language of any code you might inherit, etc. 
+
+_However_, leaving aside such idiosyncratic considerations and supposing that you have a say in the matter, two general guidelines seem reasonable: 
+
+1. Learn something really new or different to expand the _scope_ of your toolkit.
+2. If you're going to learn a new language that's similar to one you already know, there should be a speed/efficiency improvement (whether that's in terms of computing time or your coding time).
+
+
+
 ## Leave a paper trail
 
 * Documentation / Latex
