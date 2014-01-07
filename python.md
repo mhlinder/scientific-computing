@@ -1,6 +1,5 @@
 Scientific Computing in Python
 =============
-M. Henry Linder
 
 Introduction to Scientific Computing in Python
 ============
