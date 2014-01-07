@@ -1,6 +1,3 @@
-Scientific Computing in Python
-=============
-
 Introduction to Scientific Computing in Python
 ============
 This is not a programming tutorial, and this will not teach you to do science. This document will lay out a setup for conducting scientific research in the Python programming language, yes; but the primary key to successfully using Python for science is to enjoy it and to work at it. The key is that *you* have to care enough to put time and effort into computing in Python. And if that's your kind of thing, you will learn to totally kick scientific ass in Python. You'll stop programming, and start researching.
