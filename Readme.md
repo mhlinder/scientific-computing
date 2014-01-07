@@ -2,7 +2,7 @@ Scientific Computing for Scientists
 ===================================
 
 ## Manifesto
-Who needs scientific computing? These days, nearly everyone can benefit from the tools and concepts of scientific computing, from professional researchers in the sciences, to humanists looking to incorporate quantitative methodology, to anyone looking to process data in a systematic way.
+Who needs scientific computing? These days, the common man can benefit immensely by adopting the simple techniques of scientific computing, and we aim to show why *you* need scientific computing. These days, nearly everyone can benefit from the tools and concepts of scientific computing, from professional researchers in the sciences, to humanists looking to incorporate quantitative methodology, to anyone looking to process data in a systematic way.
 
 But what is scientific computing? Scientific computing is not the use of computers as an afterthought in research; it is the intelligent use of computers for organizing and processing data, and for communicating the results of this empirical and simulated work. Computers are unique, powerful tools for organization and analysis, and scientific computing is the exploitation of the particular advantages of computers to aid in our ability to learn about the world around us.
 
@@ -12,10 +12,7 @@ We believe that scientific computing need not be something Professional Research
 
 We put forth here a template for conducting scientific research ("science" here defined very loosely, and involving most quantitative work) with the aid of computers. Our individual workflows differ, as do the tools we use. These should differ for you, too, tailored to your preferences, field and abilities. We seek only to present some heuristics and organizational techniques that we have found greatly increase our scientific output, and might help you, too.
 
-We consider this a guide to Scientific Computing for Scientists, and we consider it a work in progress. Please contact us with any omissions, mistakes or comments.
-
-Signed,
-Matt Cocci, M. Henry Linder and Max Livingston
+We consider this a guide to Scientific Computing for Scientists, and we consider it a work in progress. Now sit back and let your mind get blown. Please contact us with any omissions, mistakes or comments.
 
 
 ## Get to know your tools
