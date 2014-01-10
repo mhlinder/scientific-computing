@@ -1,7 +1,7 @@
 Learn How to Program
 ============
 
-You must now resign yourself to learning to program. This is a good life skill to have, an increasing expectation in both academia and industry. Many---most?---tasks can only be completed with a programming language, and you will waste a LOT of time trying to circumvent learning to program.
+You must now resign yourself to learning to program. This is a good life skill to have, an increasing expectation in both academia and industry. Many&mdash;most?&mdash;tasks can only be completed with a programming language, and you will waste a LOT of time trying to circumvent learning to program.
 
 Like your choice of text editor, the choice of programming language is very personal. Different programming languages excel at different tasks, and different scientific communities have different preferences for languages. Some languages are good at analyzing data; some are good for mathematics; some are good at matrix algebra; some are good at everything, with mathematics as a special case.
 
@@ -14,7 +14,7 @@ See also [Python](python.md)
 
 ## Programming Languages
 
-Python may not address your needs, or may not be to your tastes. Fear not: there are literally thousands of programming languages to choose from. If you're doing statistics, we recommend [R](TODO), or [Stata](TODO) for a less programming-intensive language; if you're doing a lot of scripting, you might check out [Ruby](TODO); if you do a lot of linear algebra, [MATLAB](TODO) may be for you, and [Mathematica](TODO) is great for symbolic math. For those with performance-sensitive tasks---be it large datasets; long, loop-heavy software; or just a need for speed---should look at [Julia](TODO), which has the syntax of Python, the linear algebra of MATLAB, and the speed of C/C++; or check out the latter two, which are low-level and notoriously unfriendly to beginners, but also the industry choice for low-latency, high-speed computing.
+Python may not address your needs, or may not be to your tastes. Fear not: there are literally thousands of programming languages to choose from. If you're doing statistics, we recommend [R](TODO), or [Stata](TODO) for a less programming-intensive language; if you're doing a lot of scripting, you might check out [Ruby](TODO); if you do a lot of linear algebra, [MATLAB](TODO) may be for you, and [Mathematica](TODO) is great for symbolic math. For those with performance-sensitive tasks&mdash;be it large datasets; long, loop-heavy software; or just a need for speed&mdash;should look at [Julia](TODO), which has the syntax of Python, the linear algebra of MATLAB, and the speed of C/C++; or check out the latter two, which are low-level and notoriously unfriendly to beginners, but also the industry choice for low-latency, high-speed computing.
 
 We do recommend you find a programming language suited to as many of your needs as possible. A chief advantage of languages like Python and R is that they are open source, and have vibrant communities that develop a wide range of software packages for the languages. Often, a package exists to accomplish specific tasks so you don't have to write it from scratch, and we recommend looking into the availability of such packages in a language before committing yourself to learning it completely.
 

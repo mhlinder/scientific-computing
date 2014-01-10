@@ -4,7 +4,7 @@ Leave a Paper Trail
 * Documentation / Latex
 * Twitter, email, blogs, github
 
-[Git](http://git-scm.com/) is version control software, which will keep track of changes you make to files---code, documentation, data---and allow you to look back into the history of your projects. Git is a killer app for project management and version control: you can set up a [workflow](https://www.atlassian.com/git/workflows) defining your interaction with your files, or design your own. You can learn Git [here](http://gitready.com/) or [here](http://git-scm.com/book).
+[Git](http://git-scm.com/) is version control software, which will keep track of changes you make to files&mdash;code, documentation, data&mdash;and allow you to look back into the history of your projects. Git is a killer app for project management and version control: you can set up a [workflow](https://www.atlassian.com/git/workflows) defining your interaction with your files, or design your own. You can learn Git [here](http://gitready.com/) or [here](http://git-scm.com/book).
 
 ## LaTeX
 

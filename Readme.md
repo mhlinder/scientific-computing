@@ -19,6 +19,6 @@ Signed,
 [Matt Cocci](http://github.com/mcocci) and [M. Henry Linder](http://github.com/mhlinder)
 
 ### Table of Contents
-1. [Get to know your tools](get_to_know_your_tools.md)
-2. [Learn how to program](learn_how_to_program.md)
-3. [Leave a paper trail](leave_a_paper_trail.md)
+1. [Get to Know Your Tools](get_to_know_your_tools.md)
+2. [Learn How to Program](learn_how_to_program.md)
+3. [Leave a Paper Trail](leave_a_paper_trail.md)
