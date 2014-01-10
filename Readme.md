@@ -14,8 +14,7 @@ We put forth here a template for conducting scientific research ("science" here 
 
 We consider this a guide to Scientific Computing for Scientists, and we consider it a work in progress. Please contact us with any omissions, mistakes or comments.
 
-Table of Contents
------------------
+### Table of Contents
 1. [Get to know your tools](get_to_know_your_tools.md)
 2. [Learn how to program](learn_how_to_program.md)
 3. [Leave a paper trail](leave_a_paper_trail.md)
