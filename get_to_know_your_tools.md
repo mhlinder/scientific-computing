@@ -5,7 +5,9 @@ The tools of the scientific trade have changed dramatically in the past handful 
 We admit: we will be unable to do justice to the full spectrum of computational scientific tools. We won't come anywhere close to identifying these "best tools." Instead, we hope to present a framework for finding the best tools for _you_, and for developing a workflow that makes practicing computational science streamlined and organized.
 
 ### The Holy Grail
-The most important tool in our arsenal will sound trivial, silly and blatant; but trust us, this is the tool that we use most, yields the best results and has the greatest potential for scientific use. We are talking, of course, of [Google](http://www.google.com), or any other search engine. It would be impossible to summarize the benefits of a good search engine to the modern scientist, but a few of our regular uses include:
+The most important tool in our arsenal will sound trivial, silly and blatant; but trust us, this is the tool that we use most, yields the best results and has the greatest potential for scientific use. We are talking, of course, about [Google](http://www.google.com), or any other search engine.
+
+It would be impossible to summarize the benefits of a good search engine to the modern scientist, but a few of our regular uses include:
 
 * Finding data.
 * Finding answers to technical questions and documentation for scientific programs.
