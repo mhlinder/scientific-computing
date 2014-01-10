@@ -2,13 +2,13 @@ Get to Know Your Tools
 ======================
 The tools of the scientific trade have changed dramatically in the past handful of decades, from analogue, physical tools (beakers, thermometers, _paper_) to digital tools (spreadsheets, academic databases, computational programming). The tools available to scientists are extensive and it can be difficult to identify the "best of those tools."
 
-We admit: we will be unable to do justice to the full spectrum of computational scientific tools. We won't come anywhere close to identifying these "best tools." Instead, we hope to present a framework for finding the best tools for _you_, and for developing a workflow that makes the practice of science as streamlined and organized as possible, simultaenously.
+We admit: we will be unable to do justice to the full spectrum of computational scientific tools. We won't come anywhere close to identifying these "best tools." Instead, we hope to present a framework for finding the best tools for _you_, and for developing a workflow that makes practicing computational science streamlined and organized.
 
-The most important tool in our arsenal will sound trivial, silly and blatant; but trust us, this is the tool we use most, the tool we benefit from the most, and the tool with the greatest potential for scientific use. We are talking, of course, of [Google](http://www.google.com), or any other search engine. It would be impossible to summarize the benefits of a good search engine to the modern scientist, but a few of our regular uses include:
+The most important tool in our arsenal will sound trivial, silly and blatant; but trust us, this is the tool that we use most, yields the best results and has the greatest potential for scientific use. We are talking, of course, of [Google](http://www.google.com), or any other search engine. It would be impossible to summarize the benefits of a good search engine to the modern scientist, but a few of our regular uses include:
 
-* Finding data
-* Finding answers to technical questions, and documentation for various scientific programs.
-* Finding research by others
+* Finding data.
+* Finding answers to technical questions and documentation for scientific programs.
+* Finding research by others.
 
 You can think of a search as a supernatural finding utility, one that can answer nearly every question you have and obtain nearly any information you need. Do not underestimate the power of search: if you have a question, a problem or an informational need, someone before you has probably needed the same thing, and documented it online. Keep your search engine dear to your heart, and use it constantly.
 
