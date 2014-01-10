@@ -14,6 +14,8 @@ We put forth here a blueprint for conducting scientific research in a computatio
 
 This is a guide to Scientific Computing for Scientists, and it is a work in progress. Please contact us with any omissions, mistakes or comments.
 
+-[Matt Cocci](http://github.com/mcocci) and [M. Henry Linder](http://github.com/mhlinder)
+
 ### Table of Contents
 1. [Get to know your tools](get_to_know_your_tools.md)
 2. [Learn how to program](learn_how_to_program.md)
