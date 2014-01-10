@@ -1,7 +1,6 @@
 Scientific Computing for Scientists
 ===================================
 
-## Manifesto
 Who needs scientific computing? The answer starts with you and ends with everyone. Put more aptly: these days, who *doesn't* need scientific computing? We're hard-pressed to find an answer. Anyone doing quantitative research can benefit from the tools and concepts of contemporary scientific computing, from professional scientists, to humanists exploring statistical methods, to hobbyists systematically exploring processing.
 
 But what is scientific computing? Primarly, scientific computing is the use of computers to conduct science. We elaborate that scientific computing is not the use of computers as an afterthought in research, but the intelligent use of computers for organizing and processing data, and communicating the results of this empirical and simulated work. Computers are unique, powerful tools for organization and analysis, and scientific computing is the exploitation of the particular advantages of computers to aid in our ability to learn about the world around us.
