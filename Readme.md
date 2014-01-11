@@ -12,7 +12,7 @@ We believe that scientific computing need not be something Professional Research
 
 We put forth here a blueprint for conducting scientific research in a computational context. Our individual workflows differ, as do the tools we use. These should differ for you, too, tailored to your preferences, field and abilities. We understand our project as presenting high-level heuristics and organizational techniques that we have found greatly increase our scientific output, and might help you, too.
 
-This is a guide to Scientific Computing for Scientists, and it is a work in progress. Please contact us with any omissions, mistakes or comments.
+This is a guide to Scientific Computing for Scientists, and it is a work in progress. Please contact us with any omissions, mistakes or comments:
 
 [Matt Cocci](http://github.com/mcocci) and [M. Henry Linder](http://github.com/mhlinder)
 
