@@ -3,7 +3,7 @@ Modular Programming
 
 Sure, you could always just write the entirety of your analysis in one single, monster do file, m-script, .py file, etc. 
 
-Yes, it's true that to pull in and analyze all of your observations and datasets, you could write One Script to find them, and&mdash;in the R environment&mdash;rbind them, i.e. One Script to rule them all.
+Yes, it's true that to pull in and analyze all of your observations and datasets, you could write One Script to find them, and&mdash;in the R environment&mdash;rbind them. One Script to rule them all.
 
 _But_ chances are, you could probably gain a thing or two by sensibly modularizing your code into smaller pieces that you can more easily test, optimize, reuse, and share. We'll discuss each in turn.
 
